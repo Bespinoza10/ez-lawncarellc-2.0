@@ -16,7 +16,9 @@
     <?php include('sections/nav.php')?>
     <?php include('sections/carousel.php')?>
     <?php include('sections/four-seasons.php')?>
+    <?php include('sections/spring.php')?>
     <?php include('sections/slogan.php')?>
+    <?php include('sections/slogan2.php')?>
 
 
 
