@@ -1,0 +1,115 @@
+/* GENERAL CSS */
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300);
+
+body{
+  font-family: 'Lato', sans-serif;
+  color: #000;
+}
+.paddingTop-01{
+  padding-top: 1%;
+}
+
+.paddingTop-02{
+  padding-top: 2%;
+}
+
+.paddingTop-03{
+  padding-top: 3%;
+}
+
+.paddingTop-05{
+  padding-top: 5%;
+}
+
+.paddingTop-1{
+  padding-top: 10%;
+}
+
+.paddingTop-2{
+  padding-top: 20%;
+}
+
+.paddingTop-3{
+  padding-top: 30%;
+}
+
+.center-text{
+  text-align: center;
+}
+
+.center-block{
+  margin: 0 auto;
+  float: none;
+}
+
+/* NAVBAR CSS */
+
+.logo-img{
+  max-width: 250px;
+  margin-top: -10px;
+}
+
+.navbar{
+  min-height: 70px;
+  margin-bottom: 0;
+  border: 0;
+  background: #fff;
+}
+
+.navbar-default li > a{
+  margin-top: 10px;
+}
+
+
+.carousel-control.left, .carousel-control.right{
+  background-image: none;
+}
+
+.carousel{
+  margin-top: 70px;
+}
+
+/* FOUR SEASON SQUARES */
+
+.sqr-title{
+  font-size: 20px;
+  font-weight: 100;
+}
+
+.slogan{
+  padding: 65px 0;
+  background: #55a23f;
+}
+
+.sloganH1{
+  color: #fff;
+  padding-left: 10%;
+}
+
+.btn-1{
+  border: 1px solid #fff;
+  border-radius: 0;
+  background: transparent;
+  padding: 15px 50px;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 100;
+  transition: background .3s ease-in-out, color .3s ease-in-out;
+  -webkit-transition: background .3s ease-in-out, color .3s ease-in-out;
+  -moz-transition: background .3s ease-in-out, color .3s ease-in-out;
+}
+
+.btn-1:hover{
+  border: 1px solid #fff;
+  border-radius: 0;
+  background: #fff;
+  padding: 15px 50px;
+  color: #55a23f;
+  font-size: 18px;
+  font-weight: 100;
+  transition: background .3s ease-in-out, color .3s ease-in-out;
+  -webkit-transition: background .3s ease-in-out, color .3s ease-in-out;
+  -moz-transition: background .3s ease-in-out, color .3s ease-in-out;
+}
+
+
