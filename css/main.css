@@ -44,21 +44,64 @@ body{
 
 /* NAVBAR CSS */
 
-.logo-img{
-  max-width: 250px;
-  margin-top: -10px;
-}
+  .logo-img{
+    max-width: 250px;
+    margin-top: -10px;
+  }
 
-.navbar{
-  min-height: 70px;
-  margin-bottom: 0;
-  border: 0;
-  background: #fff;
-}
+  .navbar{
+    min-height: 70px;
+    margin-bottom: 0;
+    border: 0;
+    background: #fff;
+  }
 
-.navbar-default li > a{
-  margin-top: 10px;
-}
+  .navbar-default .navbar-nav > li{
+    min-height: 70px;
+  }
+
+  .navbar-default .navbar-nav > li > a{
+    margin-top: 10px;
+    color: #000;
+    font-size: 16px;
+    transition: color .3s ease-in-out;
+    -webkit-transition: color .3s ease-in-out;
+    -moz-transition: color .3s ease-in-out;
+  }
+
+  .navbar-default .navbar-nav > li > a:hover{
+    color: #fff;
+    transition: color .3s ease-in-out;
+    -webkit-transition: color .3s ease-in-out;
+    -moz-transition: color .3s ease-in-out;
+  }
+
+
+  .navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus{
+    background: #4dd029;
+    color: #fff;
+  }
+
+  .dropdown-menu > li > a{
+    font-size: 16px;
+  }
+
+  .dropdown-menu > li > a:hover{
+    color: #fff;
+    transition: color .3s ease-in-out;
+    -webkit-transition: color .3s ease-in-out;
+    -moz-transition: color .3s ease-in-out;
+  }
+
+  .hvr-sweep-to-bottom:before{
+    background: #4dd029;
+  }
+
+  .hvr-sweep-to-right:before{
+    background: #4dd029;
+  }
+
+
 
 
 .carousel-control.left, .carousel-control.right{
@@ -78,7 +121,7 @@ body{
 
 .slogan{
   padding: 65px 0;
-  background: #55a23f;
+  background: #4dd029;
 }
 
 .sloganH1{
