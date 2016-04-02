@@ -2,11 +2,11 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <div class="col-md-3">
+        <div class="col-md-4">
           <h1 class="spring-titles">Spring Services</h1>
         </div>
-        <div class="col-md-3 col-md-offset-6 paddingTop-01">
-          <a class="btn btn-default btn-1" href="spring.php">View More</a>
+        <div class="col-md-3 col-md-offset-5 paddingTop-01">
+          <a class="btn btn-default btn-srvc-1" href="spring.php">View More</a>
         </div>
       </div>
     </div>
