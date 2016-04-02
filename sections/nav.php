@@ -25,6 +25,7 @@
                 <li><a class="hvr-sweep-to-right" href="#">Winter</a></li>
               </ul>
             </li>
+            <li class="hvr-sweep-to-bottom"><a href="#">Contact Us</a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->

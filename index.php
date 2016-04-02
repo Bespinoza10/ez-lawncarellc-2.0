@@ -23,6 +23,8 @@
     <?php include('sections/fall.php')?>
     <?php include('sections/slogan3.php')?>
     <?php include('sections/winter.php')?>
+    <?php include('sections/contact.php')?>
+
 
 
 

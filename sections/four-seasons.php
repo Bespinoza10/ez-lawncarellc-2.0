@@ -1,10 +1,10 @@
 <div class="container paddingBottom-1">
   <div class="row">
     <div class="col-md-8 center-block paddingTop-1">
-      <h1 class="center-text">Welcome to EZ-Lawncare</h1>
-      <h3 class="center-text">Serving Residential and Commercial Customers</h3>
+      <h1 class="center-text welcome-title">Welcome to EZ-Lawncare</h1>
+      <h4 class="center-text welcome-title">Serving Residential and Commercial Customers</h4>
       <hr>
-      <h4 class="center-text">
+      <h4 class="center-text welcome-text">
         To get going, we offer all of our services all year long, but we recommend splitting them into our yearly seasons. <br><br>
         Choose which one is best for you:
       </h4>

@@ -72,6 +72,7 @@ body{
     margin-top: 10px;
     color: #000;
     font-size: 16px;
+    font-weight: 100;
     transition: color .3s ease-in-out;
     -webkit-transition: color .3s ease-in-out;
     -moz-transition: color .3s ease-in-out;
@@ -121,6 +122,16 @@ body{
 }
 
 /********************** FOUR SEASON SQUARES **********************/
+
+.welcome-title{
+  color: #000;
+  font-weight: 100;
+}
+
+.welcome-text{
+  color: #000;
+  font-weight: 100;
+}
 
 .sqr-title{
   font-size: 20px;
@@ -331,3 +342,116 @@ body{
   -webkit-transition: background .3s ease-in-out, color .3s ease-in-out;
   -moz-transition: background .3s ease-in-out, color .3s ease-in-out;
 }
+
+
+/* CONTACT FORM */
+
+.contact{
+  padding: 165px 0px;
+  background: #494949;
+}
+
+.contact-header{
+  padding-bottom: 10%;
+}
+
+.contact-title, .contact-sub-title{
+  color: #fff;
+  font-weight: 100;
+}
+
+.form-control{
+  background: none;
+  border-radius: 0;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 3px solid #acabab;
+  margin-bottom: 30px;
+  box-shadow: none;
+  color: #fff;
+}
+
+.form-control:hover{
+  border-bottom: 3px solid #fff;
+  color: #fff;
+}
+
+.form-control:focus{
+  box-shadow: none;
+  border-color: #4dd029;
+}
+
+  /* CROSS BROWSER HOVER EFFECT FOR PLACEHOLDER */
+
+
+    #name:hover:-moz-placeholder { /* Firefox 18- */
+       color: #fff;
+    }
+
+    #name:hover::-moz-placeholder {  /* Firefox 19+ */
+       color: #fff;
+    }
+
+    #name:hover:-ms-input-placeholder {
+       color: #fff;
+    }
+
+    #name:hover::-webkit-input-placeholder{
+      color: #fff;
+    }
+
+    #email:hover:-moz-placeholder { /* Firefox 18- */
+       color: #fff;
+    }
+
+    #email:hover::-moz-placeholder {  /* Firefox 19+ */
+       color: #fff;
+    }
+
+    #email:hover:-ms-input-placeholder {
+       color: #fff;
+    }
+
+    #email:hover::-webkit-input-placeholder{
+      color: #fff;
+    }
+
+    #phone:hover:-moz-placeholder { /* Firefox 18- */
+       color: #fff;
+    }
+
+    #phone:hover::-moz-placeholder {  /* Firefox 19+ */
+       color: #fff;
+    }
+
+    #phone:hover:-ms-input-placeholder {
+       color: #fff;
+    }
+
+    #phone:hover::-webkit-input-placeholder{
+      color: #fff;
+    }
+
+    #message:hover:-moz-placeholder { /* Firefox 18- */
+       color: #fff;
+    }
+
+    #message:hover::-moz-placeholder {  /* Firefox 19+ */
+       color: #fff;
+    }
+
+    #message:hover:-ms-input-placeholder {
+       color: #fff;
+    }
+
+    #message:hover::-webkit-input-placeholder{
+      color: #fff;
+    }
+
+.message-box{
+  margin-top: 6%;
+  padding-top: 5%;
+  line-height: 8px;
+}
+
