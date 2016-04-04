@@ -1,14 +1,10 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>EZ Lawn Care</title>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css" >
-    <link rel="stylesheet" href="bower_components/hover/css/hover.css">
-
-    <link rel="stylesheet" href="css/main.css">
+    <?php
+		  $pagetitle = "EZ-Lawncare | Lanscaping";
+		  include('sections/head.php')
+		?>
   </head>
   <body>
 
@@ -23,14 +19,12 @@
     <?php include('sections/fall.php')?>
     <?php include('sections/slogan3.php')?>
     <?php include('sections/winter.php')?>
-    <?php include('sections/contact.php')?>
+    <?php include('sections/footer.php')?>
 
 
 
 
 
-
-    <script src="bower_components/jquery/dist/jquery.min.js"></script>
-    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <?php include('sections/scripts.php')?>
   </body>
 </html>
