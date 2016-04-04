@@ -185,6 +185,16 @@ body{
 }
 
 
+.about-bg{
+  background-image: url('../img/about.jpg');
+  background-repeat: none;
+  padding: 160px 0;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+}
+
+
 
 /********************** SEASON BACKGROUNDS **********************/
 
@@ -455,3 +465,12 @@ body{
   line-height: 8px;
 }
 
+
+
+
+/************** FOOTER **************/
+
+  .footer-header{
+    font-weight: 100;
+
+  }

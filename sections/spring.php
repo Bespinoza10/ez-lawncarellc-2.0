@@ -6,7 +6,7 @@
           <h1 class="spring-titles">Spring Services</h1>
         </div>
         <div class="col-md-3 col-md-offset-5 paddingTop-01">
-          <a class="btn btn-default btn-srvc-1" href="spring.php">View More</a>
+          <a class="btn btn-default btn-srvc-1" href="spring-services.php">View More</a>
         </div>
       </div>
     </div>

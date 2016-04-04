@@ -6,7 +6,7 @@
           <h1 class="sloganH1"><span style="font-weight: bold;">A+ </span> BBB Rating</h1>
         </div>
         <div class="col-md-3 col-md-offset-5 col-sm-4 col-sm-offset-2 paddingTop-01">
-          <a class="btn btn-default btn-srvc-3" href="http://www.bbb.org/nashville/business-reviews/lawn-maintenance/ez-lawncare-in-spring-hill-tn-37080707#bbbseal">Check Us Out</a>
+          <a class="btn btn-default btn-srvc-3" href="http://www.bbb.org/nashville/business-reviews/lawn-maintenance/ez-lawncare-in-spring-hill-tn-37080707#bbbseal" target="_blank">Check Us Out</a>
         </div>
       </div>
     </div>

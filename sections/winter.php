@@ -6,7 +6,7 @@
           <h1 class="summer-titles">Winter Services</h1>
         </div>
         <div class="col-md-2 col-md-offset-5 paddingTop-01">
-          <a class="btn btn-default btn-srvc-4" href="summer-services.php">View More</a>
+          <a class="btn btn-default btn-srvc-4" href="winter-services.php">View More</a>
         </div>
       </div>
     </div>

@@ -14,18 +14,18 @@
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
           <ul class="nav navbar-nav navbar-right">
-            <li class="hvr-sweep-to-bottom"><a href="#">Home</a></li>
-            <li class="hvr-sweep-to-bottom"><a href="#">About Us</a></li>
+            <li class="hvr-sweep-to-bottom"><a href="index.php">Home</a></li>
+            <li class="hvr-sweep-to-bottom"><a href="about-us.php">About Us</a></li>
             <li class="dropdown hvr-sweep-to-bottom">
               <a href="#" class=" dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services <span class="caret"></span></a>
               <ul class="dropdown-menu">
-                <li><a class="hvr-sweep-to-right" href="#">Spring</a></li>
-                <li><a class="hvr-sweep-to-right" href="#">Summer</a></li>
-                <li><a class="hvr-sweep-to-right" href="#">Fall</a></li>
-                <li><a class="hvr-sweep-to-right" href="#">Winter</a></li>
+                <li><a class="hvr-sweep-to-right" href="spring-services.php">Spring</a></li>
+                <li><a class="hvr-sweep-to-right" href="summer-services.php">Summer</a></li>
+                <li><a class="hvr-sweep-to-right" href="fall-services.php">Fall</a></li>
+                <li><a class="hvr-sweep-to-right" href="winter-services.php">Winter</a></li>
               </ul>
             </li>
-            <li class="hvr-sweep-to-bottom"><a href="#">Contact Us</a></li>
+            <li class="hvr-sweep-to-bottom"><a href="contact-us.php">Contact Us</a></li>
           </ul>
         </div><!-- /.navbar-collapse -->
       </div><!-- /.container-fluid -->

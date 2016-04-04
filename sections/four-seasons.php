@@ -11,27 +11,27 @@
     </div>
     <div class="col-md-12 paddingTop-1">
       <div class="col-md-3 col-sm-6">
-        <img class="img-responsive" src="img/springSquare.jpg">
+        <a href="spring-services.php"><img class="img-responsive" src="img/springSquare.jpg">
         <br>
-        <p class="sqr-title center-text">Spring Lawncare</p>
+        <p class="sqr-title center-text">Spring Lawncare</p></a>
       </div>
 
       <div class="col-md-3 col-sm-6">
-        <img class="img-responsive" src="img/summerSquare.jpg">
+        <a href="summer-services.php"><img class="img-responsive" src="img/summerSquare.jpg">
         <br>
-        <p class="sqr-title center-text">Summer Lawncare</p>
+        <p class="sqr-title center-text">Summer Lawncare</p></a>
       </div>
 
       <div class="col-md-3 col-sm-6">
-        <img class="img-responsive" src="img/fallSquare.jpg">
+        <a href="fall-services.php"><img class="img-responsive" src="img/fallSquare.jpg">
         <br>
-        <p class="sqr-title center-text">Fall Lawncare</p>
+        <p class="sqr-title center-text">Fall Lawncare</p></a>
       </div>
 
       <div class="col-md-3 col-sm-6">
-        <img class="img-responsive" src="img/winterSquare.jpg">
+        <a href="winter-services.php"><img class="img-responsive" src="img/winterSquare.jpg">
         <br>
-        <p class="sqr-title center-text">Winter Services</p>
+        <p class="sqr-title center-text">Winter Services</p></a>
       </div>
     </div>
   </div>
